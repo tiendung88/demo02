@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "homepage": "https://github.com/tiendung88/demo02",
+  "authors": [
+    "tiendung88 <tiendung88@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  },
+  "devDependencies": {
+    "jquery": "^3.0.0",
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
